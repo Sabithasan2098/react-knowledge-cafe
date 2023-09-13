@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1001,
+      "cover": "https://i.ibb.co/MB0Sh5j/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "Exploring the Enchanted Forest",
+      "author_img": "https://i.ibb.co/58hFVqY/front-view-female-student-white-shirt-holding-pen-copybook-blue-wall.jpg",
+      "posted": "September 25, 2023",
+      "time":  12  ,
+      "hashtags": ["#Adventure", "#Nature", "#Exploration"]
+    },
+    {
+      "id": 1002,
+      "cover": "https://i.ibb.co/MB0Sh5j/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "The Galactic Odyssey",
+      "author_img": "https://i.ibb.co/58hFVqY/front-view-female-student-white-shirt-holding-pen-copybook-blue-wall.jpg",
+      "posted": "October 10, 2023",
+      "time":  15 ,
+      "hashtags": ["#Space", "#SciFi", "#Adventure"]
+    },
+    {
+      "id": 1003,
+      "cover": "https://i.ibb.co/MB0Sh5j/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "The Culinary Wonders of France",
+      "author_img": "https://i.ibb.co/58hFVqY/front-view-female-student-white-shirt-holding-pen-copybook-blue-wall.jpg",
+      "posted": "August 8, 2023",
+      "time":  10 ,
+      "hashtags": ["#Food", "#Cuisine", "#Travel"]
+    },
+    {
+      "id": 1004,
+      "cover": "https://i.ibb.co/MB0Sh5j/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "The Secrets of Ancient Egypt",
+      "author_img": "https://i.ibb.co/58hFVqY/front-view-female-student-white-shirt-holding-pen-copybook-blue-wall.jpg",
+      "posted": "July 17, 2023",
+      "time":  18  ,
+      "hashtags": ["#History", "#Archaeology", "#AncientCivilizations"]
+    },
+    {
+      "id": 1005,
+      "cover": "https://i.ibb.co/MB0Sh5j/265-digital-marketing-facebook-cover-page-template.jpg",
+      "title": "The Zen Art of Bonsai",
+      "author_img": "https://i.ibb.co/58hFVqY/front-view-female-student-white-shirt-holding-pen-copybook-blue-wall.jpg",
+      "posted": "November 5, 2023",
+      "time": 8 ,
+      "hashtags": ["#Art", "#Zen", "#Gardening"]
+    }
+  ]
+  
